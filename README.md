@@ -16,7 +16,7 @@ Inspired by [sarojaba/**awesome-devblog**](https://github.com/sarojaba/awesome-d
 - [IT](#IT)
 - [프로그래밍](#프로그래밍)
 - [전자공학](#전자공학)
-- [IT 잡지](#IT 잡지)
+- [IT 잡지](#IT-잡지)
 - [게임](#게임)
 - [보안 - 국내](#보안-국내)
 - [보안 - 해외](#보안-해외)
